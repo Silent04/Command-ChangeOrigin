@@ -1,3 +1,0 @@
-tellraw @s ["",{"text":"Oops! ","color":"dark_red"},{"text":"It looks like you are completely out of your ","color":"red"},{"score":{"name":"#CONFIG","objective":"config.changeorigin.origin_changes"},"bold":true,"color":"dark_purple"},{"text":" change(s).","color":"red"},"\n",{"text":"If you want to change your origin, you need to obtain an Orb of Origin, or ask an administrator to give you more origin changes.","color":"yellow"}]
-execute at @s run playsound minecraft:block.note_block.didgeridoo master @s ~ ~ ~ 1 0.5
-scoreboard players reset @s ChangeOrigin
