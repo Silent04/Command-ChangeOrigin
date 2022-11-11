@@ -19,10 +19,13 @@ You can configure the welcome message with the following:
 * `/scoreboard players set #CONFIG config.changeorigin.disable_first_join <0-2>`
 (0 = no message | 1 = first join | 2 = first join after reload)
 
+<details>
+<summary># Changelog</summary>
+<br>
 # Changelog
 - Updated README.md
 - 
-
+</details>
 # DISCLAIMER:
 This is meant as an alternative to the otherwise manual "free origin changes" some servers have, but it can be used in singleplayer if you really feel like it.
 
